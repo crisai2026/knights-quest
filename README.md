@@ -1,6 +1,6 @@
 # Knight's Quest Saga
 
-A browser-based adventure game with 12 minigames, dynamic weather, and challenging boss fights.
+A browser-based adventure game with 12 minigames, dynamic weather, and challenging boss fights. Play here: https://crisai2026.github.io/knights-quest/
 
 ## How to Play
 
